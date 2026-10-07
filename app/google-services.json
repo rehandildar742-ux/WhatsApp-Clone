@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447293720366",
+    "project_id": "my-whatsapp-f270b",
+    "storage_bucket": "my-whatsapp-f270b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447293720366:android:c6c4326654092ada009cbf",
+        "android_client_info": {
+          "package_name": "com.example.whatsappclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqV1pnUpFx4-VGtezj9VQV_0NJBmw5s9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
